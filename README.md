@@ -10,4 +10,6 @@ The result is a "out.bmp" file.
 
 ## Output file
 
+Used threshold value = 70
+
 ![Output](out.bmp)
